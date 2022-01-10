@@ -1022,13 +1022,13 @@
         "yearsAgo": "{time, plural, one {# 年 } other {# 年 }} 前"
     },
     "times": {
-        "second": "{time, plural, one {# second} other {# seconds}}",
-        "minute": "{time, plural, one {# minute} other {# minutes}}",
-        "hour": "{time, plural, one {# hour} other {# hours}}",
-        "day": "{time, plural, one {# day} other {# days}}",
-        "week": "{time, plural, one {# week} other {# weeks}}",
-        "month": "{time, plural, one {# month} other {# months}}",
-        "year": "{time, plural, one {# year} other {# years}}"
+        "second": "{time, plural, one {# 秒 } other {# 秒 }}",
+        "minute": "{time, plural, one {# 分} other {# 分}}",
+        "hour": "{time, plural, one {# 時間} other {# 時間}}",
+        "day": "{time, plural, one {# 日} other {# 日}}",
+        "week": "{time, plural, one {# 週間 } other {# 週間 }}",
+        "month": "{time, plural, one {# ヶ月} other {# ヶ月}}",
+        "year": "{time, plural, one {# 年 } other {# 年 }}"
     },
     "notifications": {
         "valueTx": "{{account}}に{{value}}を着金中",
